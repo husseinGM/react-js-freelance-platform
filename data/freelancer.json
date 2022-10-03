@@ -1,0 +1,151 @@
+{
+  "freelancer": [
+    {
+      "id": 1,
+      "name": "Hassan Ahmed",
+      "skills": "UI/UX Design",
+      "description": "I am a user interface designer working on many projects and I have two years experience in this field",
+      "img": "./images/man.png"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed Khalid",
+      "skills": "Front-End Developer",
+      "description": "I am a frontend developer with one year experience. Hire me now and you will get the best interfaces and business",
+      "img": "./images/man2.png"
+    },
+    {
+      "id": 3,
+      "name": "Dev Talk",
+      "skills": "Full-stack Developer",
+      "description": "Full Stack website developer 5 years experience I worked in different countries Hire me and get your dream website",
+      "img": "./images/man3.png"
+    },
+    {
+      "id": 4,
+      "name": "Hussein Gasim",
+      "skills": "Front-End Developer",
+      "description": "I am Hussein Qassem, Front End developer, and I have developed many large projects. I have two years of experience in this field. I am good at dealing with various frameworks.",
+      "img": "./images/man.png"
+    },
+    {
+      "id": 5,
+      "name": "Yassen Abbas",
+      "skills": "Back-End Developer",
+      "description": "I am a back end developer. I have developed many projects such as Hat Company and other companies. I have many projects and I am looking forward to more",
+      "img": "./images/man2.png"
+    },
+    {
+      "id": 6,
+      "name": "ALamin Higazi",
+      "skills": "AI specialest",
+      "description": "I am a specialist in Artificial Intelligence with 3 years of experience",
+      "img": "./images/man3.png"
+    },
+    {
+      "id": 7,
+      "name": "Kaild Alamin",
+      "skills": "Graphica Design",
+      "description": "I am a graphic designer and I have worked in many companies and I have five years experience",
+      "img": "./images/man.png"
+    },
+    {
+      "id": 8,
+      "name": "Khider Jamal",
+      "skills": "illustration Design",
+      "description": "I am a logo designer. I designed a lot of logos for different companies. You can now get the best logo and the best colors and hire me now",
+      "img": "./images/man2.png"
+    },
+    {
+      "id": 9,
+      "name": "Hayfa Mohammed",
+      "skills": "Video Editing",
+      "description": "I specialize in video editing and work for a huge production team. I worked in large marketing companies inside the country",
+      "img": "./images/women.png"
+    },
+    {
+      "id": 10,
+      "name": "Doaa Khalel",
+      "skills": "APIs specialest",
+      "description": "Hire me, create and get the best API, for your data, I have two years of experience",
+      "img": "./images/women2.png"
+    },
+    {
+      "id": 11,
+      "name": "Alaa Altahir",
+      "skills": "UI/UX Design",
+      "description": "User interface and user experience designer, I work in Saudi Arabia for Royal Electronic Services and I have 5 years experience",
+      "img": "./images/women3.png"
+    },
+    {
+      "id": 12,
+      "name": "Mohammed Ahmed",
+      "skills": "Photoshop Design",
+      "description": "I get the best posters now. I am passionate about the field and I have a business. I got the biggest reviews. Hire me now",
+      "img": "./images/man.png"
+    },
+    {
+      "id": 13,
+      "name": "Mohammed Jamal",
+      "skills": "Full-stack Developer",
+      "description": "I am a web developer. Hire me and you will get an integrated website at the best prices",
+      "img": "./images/man2.png"
+    },
+    {
+      "id": 14,
+      "name": "Hassan Khalid",
+      "skills": "Front-End Developer",
+      "description": "Front End Developer I have worked on many large projects and in various frameworks. I have three years of experience",
+      "img": "./images/man3.png"
+    },
+    {
+      "id": 15,
+      "name": "Roaa Salah",
+      "skills": "Designer",
+      "description": "I specialize in Adobe designs and software, I work for two companies now and my passion leads me to search for more, hire me",
+      "img": "./images/women3.png"
+    },
+    {
+      "id": 16,
+      "name": "Hala Al Sheikh",
+      "skills": "UI/UX Design",
+      "description": "User interface and user experience designer, I work in the Arab Emirates for CL Software Services, and I have 4 years of experience",
+      "img": "./images/women2.png"
+    },
+    {
+      "id": 17,
+      "name": "Taha Ayman",
+      "skills": "Back-End Developer",
+      "description": "I am a backend developer with 5 years experience and I work in various frameworks. Hire me and you will get the best service",
+      "img": "./images/man.png"
+    },
+    {
+      "id": 18,
+      "name": "Ayman Saeed",
+      "skills": "Systems analysis",
+      "description": "I am a systems manager, I worked in the largest companies, and I have 6 years experience",
+      "img": "./images/man2.png"
+    },
+    {
+      "id": 19,
+      "name": "Hiba Tarig",
+      "skills": "System Adminstration",
+      "description": "I am a systems manager, I worked in the largest companies, and I have 10 years experience in the field",
+      "img": "./images/women3.png"
+    },
+    {
+      "id": 20,
+      "name": "Odai Ahmed",
+      "skills": "Full-stack Developer",
+      "description": "I am a web developer. Hire me and you will get an integrated website at the best prices",
+      "img": "./images/man3.png"
+    },
+    {
+      "name": "Hussein Gasim osman",
+      "skills": "Front-End Developer",
+      "description": "iam a front end developer",
+      "img": "blob:http://localhost:3000/dd759959-fd27-4dcd-8f9c-8949006d4164",
+      "id": 21
+    }
+  ]
+}

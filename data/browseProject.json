@@ -1,0 +1,74 @@
+{
+  "Project": [
+    {
+      "id": 1,
+      "title": "Alamal Hospital App",
+      "type": "Hospital App",
+      "budget": "$25 - $50",
+      "img": "./images/hospital_mobile_app.webp"
+    },
+    {
+      "id": 2,
+      "title": "Trivego",
+      "type": "Hotel App",
+      "budget": "$1000 - $2000",
+      "img": "./images/trivago.png"
+    },
+    {
+      "id": 3,
+      "title": "Tirhal",
+      "type": "Transport App",
+      "budget": "$1000 - $2000",
+      "img": "./images/tirhal.png"
+    },
+    {
+      "id": 4,
+      "title": "Fitness",
+      "type": "UI/UX Design",
+      "budget": "$25 - $50",
+      "img": "./images/uiux-designer.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Food Poster",
+      "type": "Photoshop Design",
+      "budget": "$25 - $50",
+      "img": "./images/Free-Photoshop-Social-Media-Poster-Design-Template.jpg"
+    },
+    {
+      "id": 6,
+      "title": "My Hotel",
+      "type": "Mobile App",
+      "budget": "$500 - $100",
+      "img": "./images/hotel.png"
+    },
+    {
+      "id": 7,
+      "title": "Nerd Logo",
+      "type": "Design",
+      "budget": "$25 - $50",
+      "img": "./images/logo.webp"
+    },
+    {
+      "id": 8,
+      "title": "Developer App",
+      "type": "UI/UX Design",
+      "budget": "$250 - $500",
+      "img": "./images/uiux.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Inventory Manangement",
+      "type": "Desktop App",
+      "budget": "$500 - $1000",
+      "img": "./images/inventory.png"
+    },
+    {
+      "id": 10,
+      "title": "iBurger",
+      "type": "Resturant App",
+      "budget": "$250 - $500",
+      "img": "./images/resturant app.webp"
+    }
+  ]
+}

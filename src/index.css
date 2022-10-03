@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+nav a{
+  opacity: 0.7;
+}
+nav a.active{
+  opacity: 1;
+}
+nav a:hover{
+  opacity: 1;
+}
+svg{
+  width: 1.3em
+}
+.main{
+  background-image: url('../public/images/lp.jpg');
+  background-size: cover;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+.client{
+  position: relative;
+  min-height: 250px;
+}
+@media (max-width: 480px){
+  .client{
+    min-height: 400px;
+  }
+}
+.slider{
+  position: absolute;
+  opacity: 0;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  transition: 0.5s;
+}
+.slider.active{
+  opacity: 1;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
